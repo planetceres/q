@@ -1,4 +1,4 @@
-##Q - the most interesting bot in the world
+##Q - The most interesting bot in the world
 Q is a text-based virtual personality that provides relevant and interesting content through a natural language interface. In other words, Q is your know-it-all friend in the cloud.
 
 Unlike Siri or Alexa which are voice-controlled, you interact with Q through the text messenger of your choice.  
@@ -8,6 +8,8 @@ When Q finds something that you might find interesting, you'll see a link, along
 ## What can I ask Q?
 
 Anything you want. Results primarily focus on current events and trending topics.
+
+Here are a few examples taken from actual conversations:
 
 ![Screenshot 1](/assets/screen4.png?raw=true "Screenshot 1")
 ![Screenshot 2](/assets/screen5.png?raw=true "Screenshot 2")
@@ -37,15 +39,6 @@ Demo is not currently live.
 - Google Trends for trending topics
 
 
-#### Features in development:
-
-- try setting up an SMS relay and adding SMTP server for incoming messages to circumvent Twilio charges OR add Bandwidth.com support (lower cost)
-- Improve search results with FAROO or Webhose.io
-- Allow Q to send messages unprompted through automation to simulate realistic conversation intervals
-- Better info capture for user's interests and preferences to help provide better relevance in results
-- Add integration for other messengers
-
-
 ## Installation
 
 Please reference Superscript.js for more detailed installation/customization instructions. https://github.com/superscriptjs/superscript/wiki
@@ -65,6 +58,16 @@ Please reference Superscript.js for more detailed installation/customization ins
 #### Troubleshooting
 
 Due to security settings, Google will not let you connect automatically with your bot, unless you change your security settings to allow "less secure apps" to access your account.
+
+
+
+#### Features in development:
+
+- try setting up an SMS relay and adding SMTP server for incoming messages to circumvent Twilio charges OR add Bandwidth.com support (lower cost)
+- Improve search results with FAROO or Webhose.io
+- Allow Q to send messages unprompted through automation to simulate realistic conversation intervals
+- Better info capture for user's interests and preferences to help provide better relevance in results
+- Add integration for other messengers
 
 #### Known issues/limitations
 - Images do not show up in Hangouts, only MMS. This is not really an "issue" so much as a current limitation.
