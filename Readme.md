@@ -12,6 +12,9 @@ Anything you want. Results primarily focus on current events and trending topics
 ![Screenshot 1](/assets/screen4.png?raw=true "Screenshot 1")
 ![Screenshot 2](/assets/screen5.png?raw=true "Screenshot 2")
 ![Screenshot 3](/assets/screen6.png?raw=true "Screenshot 3")
+![Screenshot 4](/assets/screen1.png?raw=true "Screenshot 4")
+![Screenshot 5](/assets/screen2.png?raw=true "Screenshot 5")
+![Screenshot 6](/assets/screen3.png?raw=true "Screenshot 6")
 
 ## Demo
 
