@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+// Fetch Twitter Trends (Deprecated)
+var twitter = require('../controllers/twitter.js');
+
+twitter.fetchApiTrendData(function(err) {
+  if (err) return console.error(err);
+  console.log('Fetched Data');
+  return
+});

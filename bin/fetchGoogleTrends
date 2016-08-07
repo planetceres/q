@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var automation = require('../controllers/automation.js');
+
+automation.fetchGoogleTrendData(function(err) {
+  if (err) return console.error(err);
+  console.log('Fetched Data');
+  return
+});
