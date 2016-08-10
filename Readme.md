@@ -20,7 +20,8 @@ Here are a few examples taken from actual conversations:
 
 ## Demo
 
-Demo is not currently live.
+You can talk to Q via Google Hangouts at Qlabs.beta [at] gmail.com. The SMS demo is currently disabled.
+
 
 ## Built on
 
@@ -52,7 +53,8 @@ Please reference Superscript.js for more detailed installation/customization ins
 7. Start mongoDB on port 27017
 8. Fetch Google Trends and save them to database with 'node ./bin/fetchGoogleTrends'
 9. Run `./node_modules/superscript/bin/cleanup.js --mongo qalpha` ('qalpha' should be the name of your database if it is different)
-10. Start with "npm forever start qbot.js" or simply "node qbot.js"
+10. Set your environment with "export NODE_ENV=development" (or production)
+11. Start with "npm forever start qbot.js" or simply "node qbot.js"
 
 
 #### Troubleshooting
