@@ -11,7 +11,7 @@ Anything you want. Results primarily focus on current events and trending topics
 
 Here are a few examples taken from actual conversations:
 
-![Screenshot 0](/assets/screen0.png?raw=true "Screenshot 0")
+![Screenshot 0](/assets/Screen0.png?raw=true "Screenshot 0")
 ![Screenshot 1](/assets/screen4.png?raw=true "Screenshot 1")
 ![Screenshot 2](/assets/screen5.png?raw=true "Screenshot 2")
 ![Screenshot 3](/assets/screen6.png?raw=true "Screenshot 3")
